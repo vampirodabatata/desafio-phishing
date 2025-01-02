@@ -1,0 +1,14 @@
+Instalação do setoolkit caso você não tenha o mesmo instalado em seu Linux, pois no Kali ele já vem instalado por padrão.
+
+1)pacotes necessários pré instalação:
+sudo apt install git python3 python3-pip -y
+
+2)a instalação esta disponivel no github:
+git clone https://github.com/trustedsec/social-engineer-toolkit.git
+cd social-engineer-toolkit
+
+3)Instalação:
+sudo python3 setup.py install
+
+4)Iniciando
+sudo setoolkit
