@@ -15,6 +15,6 @@ Procedimento
 7) Será questionado o endereço IP, o importante é ser um ip acessado externamente para que haja a coleta dos dados -> ifconfig
 8) Pagina que será clonada: http://www.facebook.com
 
-
+Em seguida devemos abrir o navegador e no endereço colocar o endereço detectado pelo ifconfig (maquina kali/parrot). A pagina aberta será a pagina clonada pelo SET. Ao entrar com seu usuario e senha, será registrado os dados assim como mostrado na figura em anexo.
 
 ![vampiro01_terminal](https://github.com/user-attachments/assets/ad2c65f5-d119-48a1-8a28-453d6ffe883f)
