@@ -17,3 +17,4 @@ Procedimento
 
 
 
+![vampiro01_terminal](https://github.com/user-attachments/assets/ad2c65f5-d119-48a1-8a28-453d6ffe883f)
